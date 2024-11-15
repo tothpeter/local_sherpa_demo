@@ -5,7 +5,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    container_name: project-ruby-docker
+    container_name: awesome-project-api
     volumes:
       - .:/app
     stdin_open: true
