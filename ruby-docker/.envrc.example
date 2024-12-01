@@ -7,3 +7,5 @@ t() {
   # alias de="docker exec -it $DOCKER_CONTAINER_NAME"
   de rspec $@
 }
+
+alias lint="docker_start_container && de rubocop"
