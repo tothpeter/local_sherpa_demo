@@ -1,1 +1,2 @@
 alias t="mix test"
+alias lint="mix credo"
