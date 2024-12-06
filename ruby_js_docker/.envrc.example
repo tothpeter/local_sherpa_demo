@@ -1,4 +1,4 @@
-DOCKER_CONTAINER_NAME="awesome-project-api"
+DOCKER_CONTAINER_NAME="awesome-project"
 
 alias t="de rspec"
 alias tjs="de yarn test"
